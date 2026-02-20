@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-5\\Test\\",
+  "WorkspaceRootPath": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-7\\QueryFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F9283EF-0B6E-4BD9-909B-38B0E60BAEBB}|Test\\my_sqltest.pyproj|C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-5\\Test\\Test\\my_sqltest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2F9283EF-0B6E-4BD9-909B-38B0E60BAEBB}|Test\\my_sqltest.pyproj|solutionrelative:Test\\my_sqltest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{EC1C7787-05DF-41C7-A295-7AC2E0220D1F}|QueryFunction\\Movies_update_delete.pyproj|C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-7\\QueryFunction\\QueryFunction\\Movies_update_delete.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC1C7787-05DF-41C7-A295-7AC2E0220D1F}|QueryFunction\\Movies_update_delete.pyproj|solutionrelative:QueryFunction\\Movies_update_delete.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "my_sqltest.py",
-              "DocumentMoniker": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-5\\Test\\Test\\my_sqltest.py",
-              "RelativeDocumentMoniker": "Test\\my_sqltest.py",
-              "ToolTip": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-5\\Test\\Test\\my_sqltest.py",
-              "RelativeToolTip": "Test\\my_sqltest.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Movies_update_delete.py",
+              "DocumentMoniker": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-7\\QueryFunction\\QueryFunction\\Movies_update_delete.py",
+              "RelativeDocumentMoniker": "QueryFunction\\Movies_update_delete.py",
+              "ToolTip": "C:\\Users\\Noah\\Documents\\GitHub\\csd-310\\module-7\\QueryFunction\\QueryFunction\\Movies_update_delete.py",
+              "RelativeToolTip": "QueryFunction\\Movies_update_delete.py",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEEAAAAXAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHfSURBVDhPpZCxaxNhGMZ/9zVJaUuDUlq1FBWLZBFTCXo4BFyU1qGKi4OkIHhkzF/g0KF00M2lR9YUdDDQQVAcJILoQUd1UNRmkhoRm8RL777v7nOoCZd4AcEH3uF5nvd73vd74X\u002BgtTai3LIsHeWDEEJct217a1DvwbIs7bpubFUqFW3b9naxWLwWfSOipAvHcfqqi0KhkMtms3cty1rsaomeG4FpmoMSANVqlXQ6nQMWgacMC4hOBchduEj\u002ByjKjScGh8SS1Wq3nxQZEN3j1eY/Vrfe8rTeQvsf89ARLS1cz5XIZ/uUGXxptQiVRUhJIybudXaZn52a7vbEBpmkyNb/A69YM9W8tDEJOTI2hpI\u002BSkvOZH2f13sNAB\u002B07sV9wHIdH9Unquz9RvoeUPtL3UFISKkky\u002BAT7HwTi6FpsgGma3N9\u002Bg5I\u002BKaFZyU8wOpJChwHnjiuE9wKCXyC/zsQGOI7DeELjtiUPbgky6Wd/HA3KBelC4AIpNfQGl88cQ0mfI5PugRhKkM2DUk0INYwtPI/dAGAlf4rbl06T6DyBVgeCABJzYPhwcm0V8ICNvwJKpVIf37h3IxSyKVAuBMDIYQAMw1jvaxwGrYNl3Xq5o79vat3Y3Nedj4\u002B11je7/m\u002BXOuyzFtDhUgAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-02-07T19:00:44.701Z",
+              "WhenOpened": "2026-02-20T16:43:30.572Z",
               "EditorCaption": ""
             }
           ]
